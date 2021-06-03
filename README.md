@@ -1,4 +1,4 @@
-# round_image
+# Widgets
 
 A new Flutter project.
 
